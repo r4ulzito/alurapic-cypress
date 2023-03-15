@@ -1,0 +1,20 @@
+[
+  {
+    "email": "jose.luiz@alura.com.br",
+    "fullName": "Jose Luiz",
+    "userName": "luiz",
+    "password": "senha1234567890"
+  },
+  {
+    "email": "ana.maria@alura.com.br",
+    "fullName": "Ana Maria",
+    "userName": "aninha",
+    "password": "senha1234567890"
+  },
+  {
+    "email": "paulo.gustavo@alura.com.br",
+    "fullName": "Paulo Gustavo",
+    "userName": "tavinho",
+    "password": "senha1234567890"
+  }
+]
